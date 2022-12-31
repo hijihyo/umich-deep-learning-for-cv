@@ -10,8 +10,8 @@ Assignments for Deep Learning for Computer Vision at Michigan (2019 Fall)
 
 ## Assignments
 
-### 1. Introduction to PyTorch and k-Nearest Neighbor Classifiers [[link]](assignment1)
+### 1. Introduction to PyTorch and k-Nearest Neighbor Classifiers [[link]](assignments/assignment1)
 
-### 2. Building Linear Classifiers and Two-Layer Neural Networks [[link]](assignment2)
+### 2. Building Linear Classifiers and Two-Layer Neural Networks [[link]](assignments/assignment2)
 
-### 3. Fully-Connected Networks and Convolutional Networks [[link]](assignment3)
+### 3. Fully-Connected Networks and Convolutional Networks [[link]](assignments/assignment3)
